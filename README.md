@@ -1,6 +1,6 @@
 # Terraform EC2 Deployment
 
-This project for deploying an EC2 instance on AWS using Terraform:
+This project for test deploying an EC2 instance on AWS using Terraform:
 
 - An AWS EC2 instance setup
 - Basic infrastructure as code
